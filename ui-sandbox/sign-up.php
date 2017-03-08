@@ -5,7 +5,7 @@
 		<!-- insert header and navbar -->
 		<?php require_once("lib/header.php");?>
 
-		<main class="bg p-t-nav">
+		<main class="bg">
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12">
