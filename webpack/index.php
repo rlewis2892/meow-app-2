@@ -17,7 +17,7 @@ if(session_status() !== PHP_SESSION_ACTIVE) {
 
 		<title>Meow App 2</title>
 	</head>
-	<body>
+	<body class="sfooter">
 		<!-- This custom tag much match your Angular @Component selector name in app/app.component.ts -->
 		<meow-app>Loading&hellip;</meow-app>
 	</body>
