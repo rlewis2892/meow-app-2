@@ -71,6 +71,10 @@ nav.navbar {
 	transition: all 500ms ease;
 }
 
+.navbar-brand {
+	font-family: 'Playfair Display', 'Times New Roman', Times, serif;
+}
+
 .navbar-default {
 	background-color: white;
 }
